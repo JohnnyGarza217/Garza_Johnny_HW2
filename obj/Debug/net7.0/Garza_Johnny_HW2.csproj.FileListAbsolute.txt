@@ -1,0 +1,54 @@
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\appsettings.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.exe
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.deps.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.runtimeconfig.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.dll
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.pdb
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.AssemblyInfoInputs.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.AssemblyInfo.cs
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.csproj.CoreCompileInputs.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.Garza_Johnny_HW2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.build.Garza_Johnny_HW2.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Garza_Johnny_HW2.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Garza_Johnny_HW2.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\scopedcss\bundle\Garza_Johnny_HW2.styles.css
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.dll
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\refint\Garza_Johnny_HW2.dll
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.pdb
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.genruntimeconfig.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\ref\Garza_Johnny_HW2.dll
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\appsettings.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\libman.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.staticwebassets.runtime.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.exe
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.deps.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.runtimeconfig.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.dll
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\bin\Debug\net7.0\Garza_Johnny_HW2.pdb
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.AssemblyInfoInputs.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.AssemblyInfo.cs
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.csproj.CoreCompileInputs.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.RazorAssemblyInfo.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.RazorAssemblyInfo.cs
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.Garza_Johnny_HW2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.build.Garza_Johnny_HW2.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Garza_Johnny_HW2.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Garza_Johnny_HW2.props
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\scopedcss\bundle\Garza_Johnny_HW2.styles.css
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.dll
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\refint\Garza_Johnny_HW2.dll
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.pdb
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\Garza_Johnny_HW2.genruntimeconfig.cache
+C:\Users\jagst\Dropbox\My PC (JAG-DormLaptop)\Downloads\UT Austin Fall 2023\MIS 333K\HW Code\Garza_Johnny_HW2\Garza_Johnny_HW2\obj\Debug\net7.0\ref\Garza_Johnny_HW2.dll

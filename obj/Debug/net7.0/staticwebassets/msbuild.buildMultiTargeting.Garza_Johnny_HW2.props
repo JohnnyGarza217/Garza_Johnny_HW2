@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Garza_Johnny_HW2.props" />
+</Project>

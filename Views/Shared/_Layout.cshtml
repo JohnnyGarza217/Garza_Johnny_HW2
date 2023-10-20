@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <!--This is the code for the navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+
+            <!--This is the code for the "hamburger menu" button -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-content" aria-controls="nav-content" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!--This is the link to the home page - you can leave this as is -->
+            <a asp-controller="Home" asp-action="Index" class="navbar-brand">Home Page</a>
+
+            <!--everything in this section will collapse when the screen is small -->
+            <div class="collapse navbar-collapse" id="nav-content">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a asp-controller="Home" asp-action="CheckoutWalkup" class="nav-link">Walkup</a></li>
+                    <li class="nav-item"><a asp-controller="Home" asp-action="CheckoutWholesale" class="nav-link">Wholesale</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <!--this is the main content section of the website -->
+    <div class="container">
+        <!--NOTE: This is where the code from the main view is inserted -->
+        @RenderBody()
+    </div>
+
+    <!--This code references different script libraries to make your page responsive -->
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="~/lib/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

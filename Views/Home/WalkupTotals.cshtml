@@ -1,0 +1,103 @@
+﻿@model Garza_Johnny_HW2.Models.WalkupOrder
+
+@{
+    // Set the view title
+    ViewData["Title"] = "WalkupTotals";
+}
+
+<h1>
+    Walkup Order Total
+</h1>
+<hr />
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Display Customer Name -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="CustomerName" class="control-label">Customer Name:</label></b>
+                    @Model.CustomerName
+                </p>
+            </div>
+
+            <!-- Display Customer Type -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="CustomerType" class="control-label">Customer Type:</label></b>
+                    @Model.CustomerType
+                </p>
+            </div>
+
+            <!-- Display Number Of Hardbacks -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="NumberOfHardbacks" class="control-label">Number Of Hardbacks:</label></b>
+                    @Model.NumberOfHardbacks
+                </p>
+            </div>
+
+            <!-- Display Number Of Paperbacks -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="NumberOfPaperbacks" class="control-label">Number Of Paperbacks:</label></b>
+                    @Model.NumberOfPaperbacks
+                </p>
+            </div>
+
+            <!-- Display Total Items -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="TotalItems" class="control-label">Total Items:</label></b>
+                    @Model.TotalItems
+                </p>
+            </div>
+
+            <!-- Display Hardback Subtotal -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="HardbackSubtotal" class="control-label">Hardback Subtotal:</label></b>
+                    @Model.HardbackSubtotal.ToString("C")
+                </p>
+            </div>
+
+            <!-- Display Paperback Subtotal -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="PaperbackSubtotal" class="control-label">Paperback Subtotal:</label></b>
+                    @Model.PaperbackSubtotal.ToString("C")
+                </p>
+            </div>
+
+            <!-- Display Subtotal -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="Subtotal" class="control-label">Subtotal:</label></b>
+                    @Model.Subtotal.ToString("C")
+                </p>
+            </div>
+
+            <!-- Display Sales Tax -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="SalesTax" class="control-label">Sales Tax:</label></b>
+                    @Model.SalesTax.ToString("C")
+                </p>
+            </div>
+
+            <!-- Display Total -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="Total" class="control-label">Total:</label></b>
+                    @Model.Total.ToString("C")
+                </p>
+            </div>
+
+            <!-- Link to navigate back to the homepage -->
+            <div>
+                <a asp-action="Index">Back to Homepage</a>
+            </div>
+        </div>
+    </div>
+</div>

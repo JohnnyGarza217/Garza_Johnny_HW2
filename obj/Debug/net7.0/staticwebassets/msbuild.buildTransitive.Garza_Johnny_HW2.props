@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Garza_Johnny_HW2.props" />
+</Project>

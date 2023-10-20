@@ -1,0 +1,128 @@
+﻿@model Garza_Johnny_HW2.Models.WholesaleOrder
+
+@{
+    // Set the view title
+    ViewData["Title"] = "WholesaleTotals";
+}
+
+
+<div class="container">
+    <h1>Wholesale Order Total</h1>
+    <hr />
+
+
+    <div class="row">
+        <div class="col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <!-- Display Customer Code -->
+            <div class="form-group">
+                <p>
+                    <B><label asp-for="CustomerCode" class="control-label">Customer Code:</label></B>
+                    @Model.CustomerCode
+                </p>
+            </div>
+
+
+            <!-- Display Preferred Customer status -->
+            <div class="">
+                <label class="form-check-label">
+
+                        <b>@Html.DisplayNameFor(model => model.PreferredCustomer):</b>
+                        <input @(Model.PreferredCustomer ? "checked" : "") class="check-box" disabled="disabled" type="checkbox" />
+
+                </label>
+            </div>
+
+
+            <!-- Display Customer Type -->
+            <div class="form-group">
+                <p>
+                    <B><label asp-for="CustomerType" class="control-label">Customer Type:</label></B>
+                    <B>@Model.CustomerType</B>
+                </p>
+            </div>
+
+
+            <!-- Display Number Of Hardbacks -->
+            <div class="form-group">
+                <p>
+                    <B><label asp-for="NumberOfHardbacks" class="control-label">Number Of Hardbacks:</label></B>
+                    @Model.NumberOfHardbacks
+                </p>
+            </div>
+
+
+            <!-- Display Number Of Paperbacks -->
+            <div class="form-group">
+                <p>
+                    <B><label asp-for="NumberOfPaperbacks" class="control-label">Number Of Paperbacks:</label></B>
+                    @Model.NumberOfPaperbacks
+                </p>
+            </div>
+
+
+            <!-- Display Total Number of Books -->
+            <div class="form-group">
+                <p>
+                    <B><label asp-for="TotalItems" class="control-label">Total Number of Books:</label></B>
+                    @Model.TotalItems
+                </p>
+            </div>
+
+
+            <!-- Display Hardback Subtotal -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="HardbackSubtotal" class="control-label">Hardback Subtotal:</label></b>
+                    @Model.HardbackSubtotal.ToString("C")
+                </p>
+            </div>
+
+
+            <!-- Display Paperback Subtotal -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="PaperbackSubtotal" class="control-label">Paperback Subtotal:</label></b>
+                    @Model.PaperbackSubtotal.ToString("C")
+                </p>
+            </div>
+
+
+            <!-- Display Subtotal -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="Subtotal" class="control-label">Subtotal:</label></b>
+                    @Model.Subtotal.ToString("C")
+                </p>
+            </div>
+
+
+            <!-- Display Delivery Fee -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="DeliveryFee" class="control-label">Delivery Fee:</label></b>
+                    @Model.DeliveryFee.ToString("C")
+                </p>
+            </div>
+
+
+            <!-- Display Total -->
+            <div class="form-group">
+                <p>
+                    <b><label asp-for="Total" class="control-label">Total:</label></b>
+                    @Model.Total.ToString("C")
+                </p>
+            </div>
+
+
+            <!-- Link to navigate back to the homepage -->
+            <div class="form-group">
+                <a asp-action="Index">Back to Homepage</a>
+            </div>
+
+
+        </div>
+    </div>
+</div>
